@@ -1,0 +1,9 @@
+* {
+	/* using universal selector to remove all default padding and margin on webpage */
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	background-color: lavender;
+}
