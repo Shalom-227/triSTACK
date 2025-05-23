@@ -1,0 +1,17 @@
+/* removing all default settings on webpage using universal selector */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 500px;
+	height: 400px;
+	background-color: lavender;
+}
+
+h1 {
+	color: gray;
+	font-size: 25px;
+}
