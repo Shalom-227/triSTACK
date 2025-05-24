@@ -1,0 +1,20 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	font-size: 10px;  /* customising the default html font-size */
+}
+	
+.container{
+	background-color: teal;
+	height: 50rem;
+}
+
+
+h1 {
+	font-size: 3.5rem;
+	margin-bottom: 2rem;
+	color: #ffffff;   /* white */
+}
